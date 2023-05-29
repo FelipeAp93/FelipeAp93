@@ -4,5 +4,6 @@ Se especializando em C# - ASP.NET Core
 💬 Sobre mim tenho 29 anos moro em São Paulo ZL, gosto muito de programar.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-401107b0/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felipe.oliveira013/)
 
 
